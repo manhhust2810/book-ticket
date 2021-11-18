@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/book-ticket/static/css/main.ca237014.chunk.css",
+    "main.js": "/book-ticket/static/js/main.64bb9b4e.chunk.js",
+    "main.js.map": "/book-ticket/static/js/main.64bb9b4e.chunk.js.map",
+    "runtime-main.js": "/book-ticket/static/js/runtime-main.036cb8a1.js",
+    "runtime-main.js.map": "/book-ticket/static/js/runtime-main.036cb8a1.js.map",
+    "static/js/2.e80c9acc.chunk.js": "/book-ticket/static/js/2.e80c9acc.chunk.js",
+    "static/js/2.e80c9acc.chunk.js.map": "/book-ticket/static/js/2.e80c9acc.chunk.js.map",
+    "static/js/3.80bf78b9.chunk.js": "/book-ticket/static/js/3.80bf78b9.chunk.js",
+    "static/js/3.80bf78b9.chunk.js.map": "/book-ticket/static/js/3.80bf78b9.chunk.js.map",
+    "index.html": "/book-ticket/index.html",
+    "static/css/main.ca237014.chunk.css.map": "/book-ticket/static/css/main.ca237014.chunk.css.map",
+    "static/js/2.e80c9acc.chunk.js.LICENSE.txt": "/book-ticket/static/js/2.e80c9acc.chunk.js.LICENSE.txt",
+    "static/media/Film.module.css": "/book-ticket/static/media/bgmovie.dc995cbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.036cb8a1.js",
+    "static/js/2.e80c9acc.chunk.js",
+    "static/css/main.ca237014.chunk.css",
+    "static/js/main.64bb9b4e.chunk.js"
+  ]
+}
